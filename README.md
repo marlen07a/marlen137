@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marlen137
-- 👀 I’m interested in 
-- 🌱 I’m currently learning c/c++/python
+- 🌱 I’m currently learning c/c++/java
 - 💞️ I’m looking to collaborate on creating new projects
 - 📫 How to reach me @marlen_amangeldi
 - 😄 Pronouns: he
