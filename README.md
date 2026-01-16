@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marlen137
-- 🌱 I’m currently learning c/c++/java
+- 🌱 Junior Java Developer | Worked on databases in Java
 - 💞️ I’m looking to collaborate on creating new projects
-- 📫 How to reach me marlen.amangeldi.07@mail.ru
+- 📫 How to reach me marlen.amangeldi.06@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: 2nd year student
 
